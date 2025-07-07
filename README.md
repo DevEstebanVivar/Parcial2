@@ -2,9 +2,9 @@
 
 # Como ejecutar
 
-npm install
-npm install @vitejs/plugin-react --save-dev
-npm run dev
+- npm install
+- npm install @vitejs/plugin-react --save-dev
+- npm run dev
 
 Aplicación simple en React que muestra un catálogo de productos (consolas, juegos y accesorios) con filtro por categoría.
 
